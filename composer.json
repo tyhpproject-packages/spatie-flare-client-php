@@ -1,15 +1,15 @@
 {
     "name": "tyhpdef/spatie-flare-client-php",
-    "description": "Tyhp type definitions for spatie/flare-client-php 1.11.1.",
+    "description": "Tyhp type definitions for spatie/flare-client-php 2.10.2.",
     "type": "metapackage",
     "license": "Apache-2.0",
-    "version": "1.11.1",
+    "version": "2.10.2",
     "keywords": [
         "dev",
         "static analysis"
     ],
     "require": {
-        "tyhpdef/spatie-flare-client-php-impl": "~1.11.1.0"
+        "tyhpdef/spatie-flare-client-php-impl": "~2.10.2.0"
     },
     "extra": {
         "tyhp": {

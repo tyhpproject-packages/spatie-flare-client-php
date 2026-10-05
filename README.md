@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/spatie-flare-client-php
 
-Tyhp type definitions for `spatie/flare-client-php` `1.11.1`.
+Tyhp type definitions for `spatie/flare-client-php` `2.10.2`.
 
 ```bash
-composer require --dev tyhpdef/spatie-flare-client-php:1.11.1
+composer require --dev tyhpdef/spatie-flare-client-php:2.10.2
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/spatie-flare-client-php-impl` (type files).
